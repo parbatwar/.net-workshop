@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using W18.Models;
 using W18.Services.StudentService;
+using W18_Domain.Models;
 
 namespace W18.Controllers
 {

@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../W18 Application/W18 Application.csproj" Id="03bcf40b-4112-4857-a917-12b806fcd758" />
+  <Project Path="../W18 Domain/W18 Domain.csproj" Id="1a50bbba-3217-4f31-b7ef-5ad7e02ff99b" />
+  <Project Path="../W18 Infrastructure/W18 Infrastructure.csproj" Id="a4e024ac-8077-42f7-b663-641744e9c616" />
   <Project Path="W18.csproj" />
 </Solution>
